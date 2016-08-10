@@ -12,7 +12,11 @@ hiii harikaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 //
 this vinay
 >>>>>>> origin/master
+<<<<<<< HEAD
 
 
 
 ui am KABALIIIIIIIIIIIIIIIIIIII
+=======
+harika this is
+>>>>>>> origin/master
