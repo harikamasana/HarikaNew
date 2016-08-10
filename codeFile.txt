@@ -5,5 +5,10 @@ my first
 This is mine
 
 
+<<<<<<< HEAD
 //Check it out
 hiii harikaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+//
+this vinay
+>>>>>>> origin/master
