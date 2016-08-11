@@ -1,0 +1,37 @@
+t57676my first
+
+//Check my changes in this file./.. You are also allowed to change
+
+This is mine
+
+Papaaa singaram
+this is aish
+
+<<<<<<< HEAD
+//Check it out
+hiii harikaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+//
+this vinay
+>>>>>>> origin/master
+<<<<<<< HEAD
+
+
+
+ui am KABALIIIIIIIIIIIIIIIIIIII
+=======
+harika this is
+>>>>>>> origin/master
+ heloo this is nikhil
+---------------------
+Hiii...This is Aakrati. 
+Good morning.
+Have a nice day
+
+Good morning //Mani
+hiii this is anvesh
+
+hi this is venkat
+
+Sumanth....
+Hi i m devi
